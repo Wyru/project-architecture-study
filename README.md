@@ -2,7 +2,9 @@
 
 Repositório para fins de estudo e revisão de Clean Architecture
 
-## Projeto
+## Projetos
+
+### ReFood
 
 Montar uma aplicação básica WebApi para plataforma de delivery de comida em um isekai.
 
